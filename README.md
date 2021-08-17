@@ -1,2 +1,2 @@
 # gladiator-reup
- updated reupload of an older private project
+ updated reupload of an older cc project
